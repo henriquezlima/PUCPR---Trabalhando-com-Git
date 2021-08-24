@@ -7,3 +7,8 @@ https://blog.rocketseat.com.br/como-fazer-um-bom-readme/
 https://digitalinnovation.one/artigos/6-passos-para-criar-um-readme-bonitao-de-perfil-no-github
 
 https://gist.github.com/lohhans/f8da0b147550df3f96914d3797e9fb89
+
+---------------------------------------------------------------------------------------------------
+# Alterando configuração para pública e privado:
+
+https://docs.github.com/pt/github/administering-a-repository/managing-repository-settings/setting-repository-visibility
