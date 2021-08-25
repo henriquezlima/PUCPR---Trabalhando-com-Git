@@ -14,3 +14,7 @@ https://icmcjunior.com.br/como-organizar-seu-projeto-de-desenvolvimento-de-softw
 # Alterando configuração para pública e privada:
 
 https://docs.github.com/pt/github/administering-a-repository/managing-repository-settings/setting-repository-visibility
+
+# como criar seu primeiro pull request no github
+
+https://www.youtube.com/watch?v=Du04jBWrv4A
