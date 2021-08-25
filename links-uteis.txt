@@ -35,8 +35,15 @@ https://www.youtube.com/watch?v=Du04jBWrv4A
 https://cmder.net/
 
 ---------------------------------------------------------------------------------------------------
+# Como fazer cometários em uma pull request
 
+https://docs.github.com/pt/github/collaborating-with-pull-requests/reviewing-changes-in-pull-requests/commenting-on-a-pull-request
+
+---------------------------------------------------------------------------------------------------
 # Resolvendo conflitos ao fazer Merge:
 
+https://docs.github.com/pt/github/collaborating-with-pull-requests/addressing-merge-conflicts/about-merge-conflicts
 
+https://metring.com.br/guia-resolvendo-conflitos-no-git
 
+---------------------------------------------------------------------------------------------------
