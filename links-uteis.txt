@@ -12,6 +12,7 @@ https://gist.github.com/lohhans/f8da0b147550df3f96914d3797e9fb89
 
 https://icmcjunior.com.br/como-organizar-seu-projeto-de-desenvolvimento-de-software-com-git-e-github/?gclid=EAIaIQobChMIiae79ujK8gIVCYbICh3NIwsoEAAYAyAAEgKzZvD_BwE
 
+https://imasters.com.br/desenvolvimento/5-dicas-sobre-issues-e-comentarios-no-github
 ---------------------------------------------------------------------------------------------------
 # Alterando configuração para pública e privada:
 
