@@ -14,3 +14,15 @@ https://icmcjunior.com.br/como-organizar-seu-projeto-de-desenvolvimento-de-softw
 # Alterando configuração para pública e privada:
 
 https://docs.github.com/pt/github/administering-a-repository/managing-repository-settings/setting-repository-visibility
+
+---------------------------------------------------------------------------------------------------
+# Editando arquivos e Pull Request:
+
+https://docs.github.com/pt/github/managing-files-in-a-repository/managing-files-on-github/editing-files-in-your-repository
+
+https://docs.github.com/pt/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request
+
+https://docs.github.com/pt/github/managing-files-in-a-repository/managing-files-on-github/editing-files-in-another-users-repository
+
+
+
