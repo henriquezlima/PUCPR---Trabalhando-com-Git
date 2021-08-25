@@ -29,6 +29,8 @@ https://docs.github.com/pt/github/collaborating-with-pull-requests/proposing-cha
 
 https://docs.github.com/pt/github/managing-files-in-a-repository/managing-files-on-github/editing-files-in-another-users-repository
 
+https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests
+
 https://www.youtube.com/watch?v=Du04jBWrv4A
 
 ---------------------------------------------------------------------------------------------------
