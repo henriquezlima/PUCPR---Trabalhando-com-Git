@@ -1,4 +1,7 @@
 Arquivo de texto contendo um repositório de links úteis para quem está aprendendo Git.
+# Tutorial báscio do GIT
+
+https://www.hostinger.com.br/tutoriais/tutorial-do-git-basics-introducao#1o-Passo-8211-Instalar-o-GIT-em-Sistemas-Diferentes
 
 # Criação de README:
 
