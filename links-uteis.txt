@@ -34,3 +34,8 @@ https://www.youtube.com/watch?v=Du04jBWrv4A
 https://cmder.net/
 
 ---------------------------------------------------------------------------------------------------
+
+# Resolvendo conflitos ao fazer Merge:
+
+
+
