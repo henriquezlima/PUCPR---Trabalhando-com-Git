@@ -15,6 +15,8 @@ https://icmcjunior.com.br/como-organizar-seu-projeto-de-desenvolvimento-de-softw
 
 https://imasters.com.br/desenvolvimento/5-dicas-sobre-issues-e-comentarios-no-github
 
+https://docs.microsoft.com/pt-br/contribute/how-to-write-workflows-major
+
 ---------------------------------------------------------------------------------------------------
 # Alterando configuração para pública e privada:
 
